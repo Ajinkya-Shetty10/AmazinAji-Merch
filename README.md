@@ -4,10 +4,11 @@ The official merchandise website for AmazinAji
 # Merchandise Website  
 
 This is a front-end project designed to showcase my skills in modern web development. The website is built using:  
-
-- **HTML**  
+ 
 - **Tailwind CSS**  
-- **React**  
+- **React**
+- **Node.js**
+- **GSAP**
 
 ## Features  
 
